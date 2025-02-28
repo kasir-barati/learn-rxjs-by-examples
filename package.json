@@ -1,0 +1,17 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios-observable": "^2.1.0",
+    "rxjs": "^7.8.1",
+    "ts-node": "^10.9.2"
+  }
+}
