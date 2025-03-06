@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "ts-node"
+    "test": "ts-node",
+    "lint": "eslint . --fix"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +14,13 @@
     "axios-observable": "^2.1.0",
     "rxjs": "^7.8.1",
     "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "eslint-config-prettier": "^10.0.2",
+    "eslint-plugin-perfectionist": "^4.9.0",
+    "globals": "^16.0.0",
+    "typescript-eslint": "^8.26.0"
   }
 }
