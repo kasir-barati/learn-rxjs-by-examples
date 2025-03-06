@@ -2,7 +2,7 @@
 
 - [Intro](./docs/intro.md).
 - [Types of observables](./docs/types-of-observables.md).
-- [Creation operators](./docs/creation-functions/index.md).
+- [Creation operators](./docs/creation-functions/README.md).
   - [`of`](./docs/creation-functions/of.md).
   - [`from`](./docs/creation-functions/from.md).
   - [`fromEvent`](./docs/creation-functions/fromEvent.md).
